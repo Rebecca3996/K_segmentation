@@ -9,3 +9,5 @@ The sate-of-the-art network architecture nnUNet for automated biomedical semanti
 
 The main folder contains files required and used to meet the format of nnUNet. These files were created upon facing a few issues in re-implemenatation of nnUNet model.
 Link to the issues are as follows:
+        https://github.com/MIC-DKFZ/nnUNet/issues/172
+        
