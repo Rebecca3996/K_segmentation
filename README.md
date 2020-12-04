@@ -8,3 +8,4 @@ The primary aim of this project is to correlate the immunophenotype  with the ty
 The sate-of-the-art network architecture nnUNet for automated biomedical semantic segmentation available at "https://github.com/MIC-DKFZ/nnUNet" was used to acquire the segmentation of tumors.
 
 The main folder contains files required and used to meet the format of nnUNet. These files were created upon facing a few issues in re-implemenatation of nnUNet model.
+Link to the issues are as follows:
